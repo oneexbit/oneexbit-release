@@ -5,7 +5,7 @@ Repo only for releases, not for source code.
 
 #### Available Mac and Windows versions
 
-Download links:  [Mac](https://github.com/oneexbit/oneexbit-release/releases/download/v0.1.7/oneexbit-platform-0.1.7.dmg)   |   [Windows](https://github.com/oneexbit/oneexbit-release/releases/download/v0.1.7/oneexbit-platform-0.1.7.msi)
+Download links:  [Mac](https://github.com/oneexbit/oneexbit-release/releases/download/v0.1.9/oneexbit-platform-0.1.9.dmg)   |   [Windows](https://github.com/oneexbit/oneexbit-release/releases/download/v0.1.9/oneexbit-platform-0.1.9.msi)
 
 
 ![OneExBit](https://raw.githubusercontent.com/oneexbit/oneexbit-release/master/1.png)
